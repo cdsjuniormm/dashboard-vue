@@ -3,7 +3,6 @@ const palette = require('./palette')
 
 module.exports = {
   purge: [],
-  presets: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
