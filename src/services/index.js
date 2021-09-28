@@ -8,7 +8,7 @@ import { setGlobalLoading } from '../store/global'
 const API_ENVS = {
   local: 'http://localhost:3000',
   development: '',
-  production: 'https://backend-treinamento-vue3-lemon.vercel.app/'
+  production: 'https://backend-treinamento-vue3-82jo3yco9-cdsjuniormm.vercel.app/'
 }
 
 const httpClient = axios.create({
